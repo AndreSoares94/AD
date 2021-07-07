@@ -1,0 +1,10 @@
+insert into dim_player_sponsor values (1, "NA");
+insert into dim_player_sponsor values (2, "adidas");
+insert into dim_player_sponsor values (3, "Nike");
+insert into dim_player_sponsor values (4, "Puma");
+insert into dim_player_sponsor values (5, "Under Armour");
+insert into dim_player_sponsor values (6, "Umbro");
+insert into dim_player_sponsor values (7, "New Balance");
+insert into dim_player_sponsor values (8, "Uhlsport");
+insert into dim_player_sponsor values (9, "Mizuno");
+insert into dim_player_sponsor values (10, "Joma");
